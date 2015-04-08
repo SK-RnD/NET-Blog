@@ -1,0 +1,15 @@
+C:\Projects\Personal\SKBlog\SKBlog\SKBlog\bin\BlogEngine.NET.dll.config
+C:\Projects\Personal\SKBlog\SKBlog\SKBlog\bin\BlogEngine.NET.dll
+C:\Projects\Personal\SKBlog\SKBlog\SKBlog\bin\BlogEngine.NET.pdb
+C:\Projects\Personal\SKBlog\SKBlog\SKBlog\bin\BlogEngine.Core.dll
+C:\Projects\Personal\SKBlog\SKBlog\SKBlog\bin\Unity.WebApi.dll
+C:\Projects\Personal\SKBlog\SKBlog\SKBlog\bin\BlogML.dll
+C:\Projects\Personal\SKBlog\SKBlog\SKBlog\bin\NuGet.Core.dll
+C:\Projects\Personal\SKBlog\SKBlog\SKBlog\bin\AjaxMin.dll
+C:\Projects\Personal\SKBlog\SKBlog\SKBlog\bin\Dynamic.dll
+C:\Projects\Personal\SKBlog\SKBlog\SKBlog\bin\Microsoft.Web.XmlTransform.dll
+C:\Projects\Personal\SKBlog\SKBlog\SKBlog\bin\BlogEngine.Core.pdb
+C:\Projects\Personal\SKBlog\SKBlog\SKBlog\bin\BlogEngine.Core.xml
+C:\Projects\Personal\SKBlog\SKBlog\SKBlog\obj\Debug\SKBlog.csprojResolveAssemblyReference.cache
+C:\Projects\Personal\SKBlog\SKBlog\SKBlog\obj\Debug\BlogEngine.NET.dll
+C:\Projects\Personal\SKBlog\SKBlog\SKBlog\obj\Debug\BlogEngine.NET.pdb
